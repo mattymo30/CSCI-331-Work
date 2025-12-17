@@ -1,0 +1,7 @@
+Predicates: animal dog 
+Variables: 
+Constants: Kim 
+Functions: 
+Clauses:
+dog(Kim) 
+!dog(Kim) animal(Kim) 
